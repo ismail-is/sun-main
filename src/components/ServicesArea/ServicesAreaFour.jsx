@@ -7,11 +7,11 @@ const ServicesAreaFour = () => {
   const slick_settings = {
     dots: false,
     infinite: true,
-    speed: 1000,
+    speed: 2000,
     autoplay: true,
     arrows: false,
     slidesToShow: 5,
-    slidesToScroll: 1,
+    slidesToScroll: 2,
     responsive: [
       {
         breakpoint: 1400,

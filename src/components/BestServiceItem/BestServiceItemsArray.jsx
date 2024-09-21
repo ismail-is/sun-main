@@ -54,7 +54,7 @@ export const BestServiceItemsArray = [
       "Durable bins and bags in various sizes to manage waste efficiently and keep spaces clean",
     url: "/Garbage-bins",
     src: "/img/images/services_img02.jpg",
-    src2: "/img/All sun light/services/8.jpg",
+    src2: "/img/All sun light/services/Garbage.jpg",
     src3: "/img/All sun light/icons/6.png",
   
   },

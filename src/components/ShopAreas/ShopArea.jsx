@@ -281,7 +281,7 @@ const ShopArea = () => {
         </div>
 
         <div className="shop-item-wrap" >
-          <div className="row row-cols-xl-5 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-2" >
+          <div className="row row-cols-xl-5 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1" >
             {ShopItems.map((x, index) => (
               <div key={index} className="col">
                 <ShopItem item={x} />

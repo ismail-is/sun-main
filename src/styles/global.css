@@ -4165,7 +4165,7 @@ label {
 }
 @media (max-width: 768px) {
   .shop-item {
-    height: 180px;
+    height: auto;
   }
 }
 .shop-item:hover {

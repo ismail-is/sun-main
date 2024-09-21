@@ -10,7 +10,7 @@ const ServicesAreaFourItem = ({ item }) => {
         {/* </Link> */}
       </div>
 
-      <div className="services-content-four"  style={{height:'250px'}}>
+      <div className="services-content-four"  style={{height:'280px'}}>
         <div className="services-icon"><img src={item.src3} alt=""  style={{height:'35px'}}/></div>
 
         <h3 className="title">

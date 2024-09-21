@@ -283,7 +283,7 @@ const Dispenser = () => {
         </div>
 
         <div className="shop-item-wrap" >
-        <div className="row row-cols-xl-5 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-2" >
+        <div className="row row-cols-xl-5 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1" >
             {DispenserItem.map((x, index) => (
               <div key={index} className="col">
                 <ShopItem item={x} />
